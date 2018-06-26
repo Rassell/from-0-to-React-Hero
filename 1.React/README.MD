@@ -1,6 +1,6 @@
 # 1 - React (and Babel, eslint, webpack, etc. Basic configuration)
 
-Start point Code for this chapter [here](/start).
+Start point Code for this chapter [here](https://github.com/Rassell/from-0-to-React-Hero/tree/master/1.React/start).
 
 Now lets explain the interesting point of the configuration for this "boilerplate"
 ___

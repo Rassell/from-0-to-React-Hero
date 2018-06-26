@@ -10,4 +10,4 @@ This guides assumes that you have basic notions of javascript programming, but I
 
 Please notice that some of the concepts are explained "on the fly", take a moment to read the documentation of each package to help you out anything you don't find here.
 
-[01 - React (and Babel, eslint, webpack, etc. Basic configuration)](/1.React/README#readme)
+[01 - React (and Babel, eslint, webpack, etc. Basic configuration)](https://github.com/Rassell/from-0-to-React-Hero/tree/master/1.React/README#readme)
