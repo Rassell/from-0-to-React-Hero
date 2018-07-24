@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "env",
+    "react"
+  ],
+  "plugins": [
+    "babel-plugin-transform-object-rest-spread",
+    "transform-regenerator",
+    "transform-class-properties",
+    "react-hot-loader/babel"
+  ]
+}
