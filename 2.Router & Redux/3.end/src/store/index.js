@@ -23,6 +23,8 @@ const store = createStore(
   ),
 );
 
+// hot reload here (separate thinks on reducers folder)
+
 sagaMiddleware.run(heroSaga)
 
 export {
