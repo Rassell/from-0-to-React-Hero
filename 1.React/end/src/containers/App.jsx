@@ -10,7 +10,7 @@ class App extends PureComponent {
   }
 
   searchHero = (heroName) => {
-    fetch(`https://gateway.marvel.com:443/v1/public/characters?nameStartsWith=${heroName}&limit=30&apikey=6cd71265594cebcf1f95e7fdda633288`)
+    fetch(`https://gateway.marvel.com:443/v1/public/characters?nameStartsWith=${heroName}&limit=30&apikey=[marvelAPIKey]`)
       .then(response => response.json())
       .then(({ data }) => {
         if (data.results.length > 0) {
